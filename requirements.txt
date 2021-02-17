@@ -58,13 +58,6 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 key-generator==1.0.3
 keyring==21.5.0
-Kivy==2.0.0rc2
-kivy-deps.angle==0.2.0
-kivy-deps.glew==0.2.0
-kivy-deps.gstreamer==0.2.0
-kivy-deps.sdl2==0.2.0
-Kivy-examples==2.0.0rc2
-Kivy-Garden==0.1.4
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.3
 lxml==4.6.1
